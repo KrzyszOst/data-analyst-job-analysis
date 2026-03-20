@@ -1,4 +1,4 @@
-# 📊 Data Analyst Job Market Analysis
+# 📊 Data Analyst Job Market Analysis with SQL
 
 ## Introduction
 
